@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/landing-page.png" alt="Resume AI Maker Logo" width="200" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="assets/banner.png" alt="Resume AI Maker Banner" width="100%" style="border-radius: 8px;">
 </p>
 
 <h1 align="center">🚀 Resume AI Maker</h1>
