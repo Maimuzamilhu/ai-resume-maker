@@ -1,0 +1,11 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and local configurations
+.vscode/
+.idea/
+
+# Ignore this push automation script so it doesn't end up in your public repo
+push-showcase.ps1
