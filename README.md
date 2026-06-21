@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Resume AI Maker Banner" width="100%" style="border-radius: 8px;">
 </p>
 
-<h1 align="center">🚀 Resume AI Maker</h1>
+<h1 align="center">Resume AI Maker</h1>
 
 <p align="center">
   A free, open-source AI-powered resume builder designed to help job seekers create ATS-friendly resumes that stand out. Engineered with high-performance web technologies, it ensures resumes are structured perfectly to pass Applicant Tracking Systems (ATS) and land on the recruiter's desk.
@@ -20,25 +20,25 @@
 
 ---
 
-## 📌 Table of Contents
-* [🛠️ Project Status & Active Development](#️-project-status--active-development)
-* [✨ About The Project](#-about-the-project)
-  * [Core Value Proposition](#-core-value-proposition)
-  * [The Three Motions Workflow](#-the-three-motions-workflow)
-* [📸 Interface Gallery](#-interface-gallery)
-  * [Web Experience & Dashboard](#-web-experience--dashboard)
-  * [Templates, Examples & Flow](#-templates-examples--flow)
-* [🛠️ Technology Architecture](#️-technology-architecture)
-* [🗺️ Roadmap & Planned Features](#️-roadmap--planned-features)
-* [📄 License & Attribution](#-license--attribution)
+## Table of Contents
+* [Project Status & Active Development](#project-status--active-development)
+* [About The Project](#about-the-project)
+  * [Core Value Proposition](#core-value-proposition)
+  * [The Three Motions Workflow](#the-three-motions-workflow)
+* [Interface Gallery](#interface-gallery)
+  * [Web Experience & Dashboard](#web-experience--dashboard)
+  * [Templates, Examples & Flow](#templates-examples--flow)
+* [Technology Architecture](#technology-architecture)
+* [Roadmap & Planned Features](#roadmap--planned-features)
+* [License & Attribution](#license--attribution)
 
 ---
 
-## 🛠️ Project Status & Active Development
+## Project Status & Active Development
 
 > [!IMPORTANT]
 > **Active Development Warning**
-> I am actively developing this tool! Please note that there may currently be **glitches, minor bugs, or PDF printing issues** which are being resolved as quickly as possible.
+> I am actively developing this tool! Please note that there may currently be glitches, minor bugs, or PDF printing issues which are being resolved as quickly as possible.
 > 
 > * **Feature Requests & Bug Reports**: If you want to suggest new features, report bugs/issues, or email suggestions, feel free to contact me.
 > * **Template Submissions**: If you have any specific type of resume style or layout you want included/supported in the builder, please email it!
@@ -51,33 +51,34 @@
 
 ---
 
-## ✨ About The Project
+## About The Project
 
 Modern recruitment relies heavily on Applicant Tracking Systems (ATS) to filter candidates. If your resume isn't formatted correctly, it might never be seen by a human recruiter. **Resume AI Maker** solves this by using the standardized **JSON Resume** schema and layouts engineered to pass ATS parsers while maintaining beautiful, professional typography.
 
-### 💡 Core Value Proposition
-* 💸 **100% Free**: Resume AI Maker is completely free for general users, always.
-* 🤖 **AI-Powered Suggestions**: Write, rewrite, and optimize descriptions on the fly.
-* 📄 **ATS-Optimized Templates**: 52 templates explicitly designed to avoid parsing errors.
-* 🔒 **Privacy-First Design**: You own your data. Export your full resume schema as JSON, import it anytime, or host the app locally.
+### Core Value Proposition
 
-### 🔄 The Three Motions Workflow
+* **100% Free** ![Free](https://img.shields.io/badge/-Free-3ECF8E?style=flat-square) — Resume AI Maker is completely free for general users, always.
+* **AI-Powered Suggestions** ![AI](https://img.shields.io/badge/-AI_Suggestions-blue?style=flat-square) — Write, rewrite, and optimize descriptions on the fly.
+* **ATS-Optimized Templates** ![ATS](https://img.shields.io/badge/-ATS_Optimized-orange?style=flat-square) — 52 templates explicitly designed to avoid parsing errors.
+* **Privacy-First Design** ![Privacy](https://img.shields.io/badge/-Privacy_First-purple?style=flat-square) — You own your data. Export your full resume schema as JSON, import it anytime, or host the app locally.
+
+### The Three Motions Workflow
 
 ```
 [1. Compose] ──> [2. Audit] ──> [3. Send]
 ```
 
-1.  **Compose**: Input your details section-by-section. An **AI Assist** content optimizer helps you rewrite dull resume points into action-driven statements. You can also import existing resume schemas to auto-parse details in real-time.
-2.  **Audit**: Our built-in **ATS Margin & Structure Checker** inspects your resume's formatting, margins, and headings to verify compatibility with major screening systems like Workday, Greenhouse, and Lever.
-3.  **Send**: Uses a **Smart Hybrid Pagination** layout engine that prevents mid-sentence text splitting across page lines. Our cloud-rendering sync ensures your exported PDF perfectly matches the live preview.
+1.  **Compose**: Input your details section-by-section. An AI Assist content optimizer helps you rewrite dull resume points into action-driven statements. You can also import existing resume schemas to auto-parse details in real-time.
+2.  **Audit**: Our built-in ATS Margin & Structure Checker inspects your resume's formatting, margins, and headings to verify compatibility with major screening systems like Workday, Greenhouse, and Lever.
+3.  **Send**: Uses a Smart Hybrid Pagination layout engine that prevents mid-sentence text splitting across page lines. Our cloud-rendering sync ensures your exported PDF perfectly matches the live preview.
 
 ---
 
-## 📸 Interface Gallery
+## Interface Gallery
 
 Here is a visual overview of the user experience and pages. All images are captured from the actual application interface.
 
-### 💻 Web Experience & Dashboard
+### Web Experience & Dashboard
 
 The application features a modern landing page, a dashboard to manage drafts, and a split-screen resume builder.
 
@@ -104,7 +105,7 @@ The application features a modern landing page, a dashboard to manage drafts, an
   </tr>
 </table>
 
-### 📂 Templates, Examples & Flow
+### Templates, Examples & Flow
 
 Our templates directory and real-world examples guide you on how to structure resumes for specific industries.
 
@@ -133,7 +134,7 @@ Our templates directory and real-world examples guide you on how to structure re
 
 ---
 
-## 🛠️ Technology Architecture
+## Technology Architecture
 
 Resume AI Maker is engineered with modern, type-safe technologies designed for sub-second rendering times.
 
@@ -148,7 +149,7 @@ graph TD
 
 ---
 
-## 🗺️ Roadmap & Planned Features
+## Roadmap & Planned Features
 
 Here are the features currently planned or under active development:
 
@@ -160,7 +161,7 @@ Here are the features currently planned or under active development:
 
 ---
 
-## 📄 License & Attribution
+## License & Attribution
 
 This promotional repository showcases the frontend, UX design, and architectural capabilities of **Resume AI Maker**. 
 
